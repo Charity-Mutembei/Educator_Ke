@@ -1,0 +1,29 @@
+.login-section{
+    width: 45%;
+    margin: 20% auto;
+}
+form{
+    line-height: 4vw;
+    letter-spacing: .2vw;
+    font-size: 2vw;
+    border: .2vw dotted black;
+}
+form .items{
+    margin-left: 28%;
+    margin-bottom: 10%;
+}
+form .items h3{
+    margin-left: 23%;
+}
+form .items .button_section input{
+    margin: 5% 0% 5% 5%;
+    width: 15vw;
+    height: 3.5vw;
+    font-size: 1.8vw;
+    border-radius: 1.2vw;
+    background-color: black;
+    color: lightgray;
+}
+form .name_section, .school_section, .region_section, .gender_section, .age_section, .grade_section, .email_section, .password_section label{
+    margin-right: 30%;
+}
